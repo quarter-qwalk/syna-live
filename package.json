@@ -7,13 +7,13 @@
   "private": false,
   "license": "MIT",
   "author": "Syna Live contributors",
-  "homepage": "https://2788615272-glitch.github.io/syna-live/",
+  "homepage": "https://quarter-qwalk.github.io/syna-live/",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/2788615272-glitch/syna-live.git"
+    "url": "git+https://github.com/quarter-qwalk/syna-live.git"
   },
   "bugs": {
-    "url": "https://github.com/2788615272-glitch/syna-live/issues"
+    "url": "https://github.com/quarter-qwalk/syna-live/issues"
   },
   "engines": {
     "node": ">=20"

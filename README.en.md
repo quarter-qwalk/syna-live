@@ -2,7 +2,7 @@
 
 Syna Live is a local-first AI companion and livestream avatar studio. Combine character art, a persona, and your own model key to create a character that can chat, speak, respond to Bilibili danmaku, and appear in an OBS browser source.
 
-[Interactive workshop](https://2788615272-glitch.github.io/syna-live/) · [Windows releases](https://github.com/2788615272-glitch/syna-live/releases/latest) · [中文说明](README.md)
+[Interactive workshop](https://quarter-qwalk.github.io/syna-live/) · [Windows releases](https://github.com/quarter-qwalk/syna-live/releases/latest) · [中文说明](README.md)
 
 ![Syna Live control panel](docs/control-panel.png)
 

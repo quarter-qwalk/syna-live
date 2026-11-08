@@ -1,5 +1,5 @@
 const host = location.hostname;
-const owner = host.endsWith('.github.io') ? host.split('.')[0] : '2788615272-glitch';
+const owner = host.endsWith('.github.io') ? host.split('.')[0] : 'quarter-qwalk';
 const repo = host.endsWith('.github.io') ? (location.pathname.split('/').filter(Boolean)[0] || 'syna-live') : 'syna-live';
 const github = `https://github.com/${owner}/${repo}`;
 

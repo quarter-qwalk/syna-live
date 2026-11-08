@@ -3,14 +3,14 @@
   <h1>Syna Live</h1>
   <p><strong>自定义形象、人设和声音的本地陪伴直播 AI</strong></p>
   <p>
-    <a href="https://2788615272-glitch.github.io/syna-live/">在线角色工坊</a> ·
-    <a href="https://github.com/2788615272-glitch/syna-live/releases/latest">下载 Windows 版</a> ·
+    <a href="https://quarter-qwalk.github.io/syna-live/">在线角色工坊</a> ·
+    <a href="https://github.com/quarter-qwalk/syna-live/releases/latest">下载 Windows 版</a> ·
     <a href="README.en.md">English</a>
   </p>
   <p>
-    <img alt="License" src="https://img.shields.io/github/license/2788615272-glitch/syna-live">
-    <img alt="Release" src="https://img.shields.io/github/v/release/2788615272-glitch/syna-live">
-    <img alt="CI" src="https://github.com/2788615272-glitch/syna-live/actions/workflows/ci.yml/badge.svg">
+    <img alt="License" src="https://img.shields.io/github/license/quarter-qwalk/syna-live">
+    <img alt="Release" src="https://img.shields.io/github/v/release/quarter-qwalk/syna-live">
+    <img alt="CI" src="https://github.com/quarter-qwalk/syna-live/actions/workflows/ci.yml/badge.svg">
     <img alt="Windows" src="https://img.shields.io/badge/platform-Windows-4d9fef">
   </p>
 </div>
@@ -37,7 +37,7 @@ Syna Live 让用户把一张角色立绘、一段人设和自己的模型 Key，
 
 ## 在线角色工坊
 
-访问 [Syna Live 在线演示](https://2788615272-glitch.github.io/syna-live/)：
+访问 [Syna Live 在线演示](https://quarter-qwalk.github.io/syna-live/)：
 
 - 修改角色名、关系和核心人设；
 - 上传自己的 PNG、JPEG 或 WebP 立绘；
@@ -48,7 +48,7 @@ Syna Live 让用户把一张角色立绘、一段人设和自己的模型 Key，
 
 ## 下载安装
 
-Windows 用户可从 [GitHub Releases](https://github.com/2788615272-glitch/syna-live/releases/latest) 下载：
+Windows 用户可从 [GitHub Releases](https://github.com/quarter-qwalk/syna-live/releases/latest) 下载：
 
 - `SynaLive-Setup-*.exe`：安装版；
 - `SynaLive-Portable-*.exe`：免安装版。
